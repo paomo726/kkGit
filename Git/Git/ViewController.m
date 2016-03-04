@@ -18,6 +18,16 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
+- (void)fun1{
+    
+    
+}
+
+- (void)fun2{
+    
+    
+    
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
